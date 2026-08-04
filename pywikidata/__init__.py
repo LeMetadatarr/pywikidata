@@ -8,4 +8,7 @@ from pywikidata.version import __version__
 
 import pywikidata.harvest  # noqa: F401  (import for @register side effects)
 
-__all__ = ["__version__"]
+from pywikidata.client import WikidataClient
+from pywikidata.models import WikidataSearchHit, WikidataExternalIds
+
+__all__ = ["__version__", "WikidataClient", "WikidataSearchHit", "WikidataExternalIds"]
