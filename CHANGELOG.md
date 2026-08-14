@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.0a3](https://github.com/LeMetadatarr/pywikidata/tree/0.1.0a3) (2026-08-14)
+
+[Full Changelog](https://github.com/LeMetadatarr/pywikidata/compare/0.1.0a2...0.1.0a3)
+
+**Merged pull requests:**
+
+- docs: add dataset documentation [\#2](https://github.com/LeMetadatarr/pywikidata/pull/2) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.1.0a2](https://github.com/LeMetadatarr/pywikidata/tree/0.1.0a2) (2026-08-04)
 
 [Full Changelog](https://github.com/LeMetadatarr/pywikidata/compare/1df8a452e6ba1651283669b5d27a68454f629016...0.1.0a2)
